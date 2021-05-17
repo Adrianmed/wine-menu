@@ -1,5 +1,7 @@
 # Wine Menu
-An Algolia demo for a wine menu. <br><br>In this website, a user will be able to search through a large wine menu. The search bar compares the users' input against the Name, Domain, and Type of wines available. The price and image of the wine are provided to the user in a real-time search result grid. This application is intended for desktop only.
+An Algolia demo for a wine menu.
+<br><br>Link: https://adrianmed.github.io/wine-menu
+<br><br>In this website, a user will be able to search through a large wine menu. The search bar compares the users' input against the Name, Domain, and Type of wines available. The price and image of the wine are provided to the user in a real-time search result grid. This application is intended for desktop only.
 <br><br>
 This project was implemented with VueJS and VUE InstantSearch. I was impressed by the amount of documentation and examples for implementing Algolia. I uploaded the wine JSON database from the Solutions Hiring Assesment Github Repo into the Algolia dashboard to create the Index. I ranked the results to display based on the Quality attribute of the Wines. It is clear that the search results are extremely configurable using the Algolia dashboard, and can be optimized for large complex datasets.
 <br><br>
